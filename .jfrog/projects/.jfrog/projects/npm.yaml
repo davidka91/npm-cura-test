@@ -1,0 +1,5 @@
+version: 1
+type: npm
+resolver:
+    repo: davidka-npm-remote
+    serverId: idani
